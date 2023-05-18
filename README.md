@@ -17,3 +17,8 @@
 * handle errors
 
 * Create module Rest API for Todo list
+
+### Project run
+```sh
+docker-compose up
+```
